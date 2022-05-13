@@ -1,0 +1,5 @@
+/Users/denashivanandareddypitta/Projects/first/var/bin/Debug/var.exe
+/Users/denashivanandareddypitta/Projects/first/var/bin/Debug/var.pdb
+/Users/denashivanandareddypitta/Projects/first/var/obj/anycpu/Debug/var.csproj.CoreCompileInputs.cache
+/Users/denashivanandareddypitta/Projects/first/var/obj/anycpu/Debug/var.exe
+/Users/denashivanandareddypitta/Projects/first/var/obj/anycpu/Debug/var.pdb

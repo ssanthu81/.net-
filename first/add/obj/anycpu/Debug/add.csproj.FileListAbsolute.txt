@@ -1,0 +1,5 @@
+/Users/denashivanandareddypitta/Projects/first/add/bin/Debug/add.exe
+/Users/denashivanandareddypitta/Projects/first/add/bin/Debug/add.pdb
+/Users/denashivanandareddypitta/Projects/first/add/obj/anycpu/Debug/add.csproj.CoreCompileInputs.cache
+/Users/denashivanandareddypitta/Projects/first/add/obj/anycpu/Debug/add.exe
+/Users/denashivanandareddypitta/Projects/first/add/obj/anycpu/Debug/add.pdb

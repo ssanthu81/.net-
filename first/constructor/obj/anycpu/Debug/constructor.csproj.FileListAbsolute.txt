@@ -1,0 +1,5 @@
+/Users/denashivanandareddypitta/Projects/first/constructor/bin/Debug/constructor.exe
+/Users/denashivanandareddypitta/Projects/first/constructor/bin/Debug/constructor.pdb
+/Users/denashivanandareddypitta/Projects/first/constructor/obj/anycpu/Debug/constructor.csproj.CoreCompileInputs.cache
+/Users/denashivanandareddypitta/Projects/first/constructor/obj/anycpu/Debug/constructor.exe
+/Users/denashivanandareddypitta/Projects/first/constructor/obj/anycpu/Debug/constructor.pdb

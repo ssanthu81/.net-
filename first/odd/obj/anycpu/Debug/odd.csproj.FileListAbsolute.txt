@@ -1,0 +1,5 @@
+/Users/denashivanandareddypitta/Projects/first/odd/bin/Debug/odd.exe
+/Users/denashivanandareddypitta/Projects/first/odd/bin/Debug/odd.pdb
+/Users/denashivanandareddypitta/Projects/first/odd/obj/anycpu/Debug/odd.csproj.CoreCompileInputs.cache
+/Users/denashivanandareddypitta/Projects/first/odd/obj/anycpu/Debug/odd.exe
+/Users/denashivanandareddypitta/Projects/first/odd/obj/anycpu/Debug/odd.pdb

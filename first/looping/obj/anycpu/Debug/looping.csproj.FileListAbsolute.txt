@@ -1,0 +1,5 @@
+/Users/denashivanandareddypitta/Projects/first/looping/bin/Debug/looping.exe
+/Users/denashivanandareddypitta/Projects/first/looping/bin/Debug/looping.pdb
+/Users/denashivanandareddypitta/Projects/first/looping/obj/anycpu/Debug/looping.csproj.CoreCompileInputs.cache
+/Users/denashivanandareddypitta/Projects/first/looping/obj/anycpu/Debug/looping.exe
+/Users/denashivanandareddypitta/Projects/first/looping/obj/anycpu/Debug/looping.pdb

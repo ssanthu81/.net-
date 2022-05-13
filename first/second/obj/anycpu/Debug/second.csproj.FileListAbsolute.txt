@@ -1,0 +1,6 @@
+/Users/denashivanandareddypitta/Projects/first/second/bin/Debug/second.exe
+/Users/denashivanandareddypitta/Projects/first/second/bin/Debug/second.pdb
+/Users/denashivanandareddypitta/Projects/first/second/obj/anycpu/Debug/second.csproj.AssemblyReference.cache
+/Users/denashivanandareddypitta/Projects/first/second/obj/anycpu/Debug/second.csproj.CoreCompileInputs.cache
+/Users/denashivanandareddypitta/Projects/first/second/obj/anycpu/Debug/second.exe
+/Users/denashivanandareddypitta/Projects/first/second/obj/anycpu/Debug/second.pdb

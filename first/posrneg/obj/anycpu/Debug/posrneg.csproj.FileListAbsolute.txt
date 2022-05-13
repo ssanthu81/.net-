@@ -1,0 +1,5 @@
+/Users/denashivanandareddypitta/Projects/first/posrneg/bin/Debug/posrneg.exe
+/Users/denashivanandareddypitta/Projects/first/posrneg/bin/Debug/posrneg.pdb
+/Users/denashivanandareddypitta/Projects/first/posrneg/obj/anycpu/Debug/posrneg.csproj.CoreCompileInputs.cache
+/Users/denashivanandareddypitta/Projects/first/posrneg/obj/anycpu/Debug/posrneg.exe
+/Users/denashivanandareddypitta/Projects/first/posrneg/obj/anycpu/Debug/posrneg.pdb

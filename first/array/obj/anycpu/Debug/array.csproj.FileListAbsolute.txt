@@ -1,0 +1,5 @@
+/Users/denashivanandareddypitta/Projects/first/array/obj/anycpu/Debug/array.csproj.CoreCompileInputs.cache
+/Users/denashivanandareddypitta/Projects/first/array/bin/Debug/array.exe
+/Users/denashivanandareddypitta/Projects/first/array/bin/Debug/array.pdb
+/Users/denashivanandareddypitta/Projects/first/array/obj/anycpu/Debug/array.exe
+/Users/denashivanandareddypitta/Projects/first/array/obj/anycpu/Debug/array.pdb
